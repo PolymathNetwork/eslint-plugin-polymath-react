@@ -25,7 +25,7 @@ ESLint plugin for the Polymath related React projects.
 
 ### Extends
 
-This package extends [eslint:recommended](http://eslint.org/docs/rules/), [plugin:react/recommended](https://github.com/yannickcr/eslint-plugin-react) and [plugin:polymath/recommended](https://github.com/ChronoBank/eslint-plugin-chronobank)
+This package extends [eslint:recommended](http://eslint.org/docs/rules/), [plugin:react/recommended](https://github.com/yannickcr/eslint-plugin-react) and [plugin:polymath/recommended](https://github.com/PolymathNetwork/eslint-plugin-polymath)
 
 ### Overrides
 
