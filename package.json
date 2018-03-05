@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-polymath-react",
+  "version": "1.0.0",
+  "description": "ESLint plugin for the Polymath related React projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolymathNetwork/eslint-plugin-polymath-react.git"
+  },
+  "author": "Boris Shevchenko",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PolymathNetwork/eslint-plugin-polymath-react/issues"
+  },
+  "homepage": "https://github.com/PolymathNetwork/eslint-plugin-polymath-react#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-polymath": "PolymathNetwork/eslint-plugin-polymath",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0"
+  },
+  "devDependencies": {}
+}
