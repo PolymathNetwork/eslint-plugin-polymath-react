@@ -116,5 +116,10 @@ module.exports = {
     'no-alert': 'off',
     'no-debugger': 'off',
     'no-return-await': 'error',
+    "jsx-a11y/anchor-is-valid": [ "error", {
+      "components": [ "Link" ],
+      "specialLink": [ "hrefLeft", "hrefRight" ],
+      "aspects": [ "noHref", "invalidHref", "preferButton" ]
+    }]
   }
 }
