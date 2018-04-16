@@ -39,7 +39,7 @@ module.exports = {
     'no-case-declarations': 0,
     'quotes': ['error', 'prefer-single'],
     'max-len': ["error", { "code": 120 }],
-    'comma-spacing': ["error", { "before": true, "after": true }],
+    'comma-spacing': ["error", { "before": false, "after": true }],
     'no-param-reassign': ['error', { props: false }],
     'comma-dangle': ['error', 'always-multiline'],
     'object-curly-spacing': ['error', 'always'],
