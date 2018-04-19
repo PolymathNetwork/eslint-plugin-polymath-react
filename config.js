@@ -50,7 +50,6 @@ module.exports = {
           allow: ['__', '__data', '__html']
         }
       ],
-    'max-len': ['error', 250],
     'react/prefer-stateless-function': 'off',
     'react/no-multi-comp': 'off',
     'react/display-name': ['off', { ignoreTranspilerName: false }],
