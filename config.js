@@ -42,6 +42,7 @@ module.exports = {
     'object-curly-spacing': ['error', 'always'],
     'no-multiple-empty-lines': ['error', { 'max': 1, 'maxBOF': 0, 'maxEOF': 1 } ],
     'arrow-parens': ['error', 'always', { requireForBlockBody: false }],
+    'max-len': ['error', { 'code': 120 }],
     'no-underscore-dangle':
       [
         'error',
